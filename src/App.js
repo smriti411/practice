@@ -10,6 +10,9 @@ function App() {
 
   return (
     <Router>
+      <head> 
+      <title> GrayQuest </title>
+      </head>
     <div className="App">
       <Navbar />
       <Switch>

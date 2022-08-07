@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="footer">
       Made by Smriti
       <br />
-      <i> @smriti.gmail.com </i>
+      <i> smriti@gmail.com </i>
     </div>
   );
 }
